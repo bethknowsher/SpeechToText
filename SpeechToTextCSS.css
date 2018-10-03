@@ -1,0 +1,28 @@
+body{
+  background-color: #A01A24;
+  text-align: center;
+}
+
+h1{
+  font-size: 35px;
+}
+.text-box {
+  width: 500px;
+  border: 5px solid black;
+  padding: 100px;
+  margin: 10px auto;
+  background-color: white;
+  align: center;
+}
+
+i {
+  font-size: 25px;
+  padding: 5px;
+}
+
+button {
+  width: 90px;
+  position: relative;
+  margin: 5px;
+  border: solid black;
+}
